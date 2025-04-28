@@ -5,7 +5,7 @@ import Footer from "./components/Footer";
 import Header from "./components/Header";
 import HowWeWork from "./components/HowWeWork";
 import JobApplicationServicePlans from "./components/JobApplicationServicePlans";
-import NavBar from "./components/NavBar";
+import NavBar from "./components/Navbar";
 import OurClientsReactions from "./components/OurClientsReactions";
 import ResumeBuilding from "./components/ResumeBuilding";
 import WhyChooseUs from "./components/WhyChooseUs";
