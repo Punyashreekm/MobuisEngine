@@ -12,7 +12,7 @@ const Advance = () => {
           </div>
 
           <h1 className="text-white text-[56px] font-bold">
-            $$150<span className="font-bold text-[26px]">/week</span>
+            $150<span className="font-bold text-[26px]">/week</span>
           </h1>
         </div>
 
